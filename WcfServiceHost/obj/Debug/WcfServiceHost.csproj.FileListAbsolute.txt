@@ -1,0 +1,5 @@
+D:\Xamarin\Xamarin_Tuvi2015\WcfServiceHost\bin\WcfServiceHost.dll
+D:\Xamarin\Xamarin_Tuvi2015\WcfServiceHost\bin\WcfServiceHost.pdb
+D:\Xamarin\Xamarin_Tuvi2015\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\Xamarin\Xamarin_Tuvi2015\WcfServiceHost\obj\Debug\WcfServiceHost.dll
+D:\Xamarin\Xamarin_Tuvi2015\WcfServiceHost\obj\Debug\WcfServiceHost.pdb

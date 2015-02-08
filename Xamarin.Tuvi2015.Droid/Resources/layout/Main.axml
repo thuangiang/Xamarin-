@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <Button
+       android:text="@string/Lasotuvi"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/getRandomMonkeyButton" />
+  <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="22dp">
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/spinner"
+        android:layout_alignBottom="@+id/spinner"
+        android:id="@+id/randomMonkeyLabel"
+        android:gravity="left" />
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:prompt="@string/planet_prompt" />
+  </RelativeLayout>
+        <!--<EditText
+            android:id="@+id/familyText"
+            android:hint="Family"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/subfamilyText"
+            android:layout_alignBottom="@+id/subfamilyText"
+            android:layout_alignParentLeft="true" />-->
+        <ImageButton
+            android:src="@android:drawable/ic_menu_search"
+            android:id="@+id/searchButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+    
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/searchResultsList" />
+</LinearLayout>

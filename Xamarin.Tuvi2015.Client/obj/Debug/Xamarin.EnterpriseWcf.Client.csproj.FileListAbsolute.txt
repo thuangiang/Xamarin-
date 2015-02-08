@@ -1,0 +1,5 @@
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.Client\bin\Debug\Xamarin.EnterpriseWcf.Client.dll
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.Client\bin\Debug\Xamarin.EnterpriseWcf.Client.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.Client\obj\Debug\Xamarin.EnterpriseWcf.Client.csprojResolveAssemblyReference.cache
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.Client\obj\Debug\Xamarin.EnterpriseWcf.Client.dll
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.Client\obj\Debug\Xamarin.EnterpriseWcf.Client.pdb

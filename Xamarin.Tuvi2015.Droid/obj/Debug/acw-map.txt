@@ -1,0 +1,2 @@
+Xamarin.Tuvi2015.Droid.Adapters.MobileInformationAdapter;xamarin.tuvi2015.droid.adapters.MobileInformationAdapter
+Xamarin.Tuvi2015.Droid.MainActivity;xamarin.tuvi2015.droid.MainActivity

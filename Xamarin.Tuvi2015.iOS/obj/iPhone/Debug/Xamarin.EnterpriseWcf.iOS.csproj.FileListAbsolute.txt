@@ -1,0 +1,9 @@
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\bin\iPhone\Debug\XamarinEnterpriseWcfiOS.exe
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\bin\iPhone\Debug\XamarinEnterpriseWcfiOS.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\bin\iPhone\Debug\Xamarin.EnterpriseWcf.Client.dll
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\bin\iPhone\Debug\Xamarin.EnterpriseWcf.Client.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\obj\iPhone\Debug\
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\obj\iPhone\Debug\Xamarin.EnterpriseWcf.iOS.csprojResolveAssemblyReference.cache
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\obj\iPhone\Debug\XamarinEnterpriseWcfiOS.exe
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\obj\iPhone\Debug\XamarinEnterpriseWcfiOS.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.EnterpriseWcf.iOS\bin\iPhone\Debug\Xamarin.EnterpriseWcf.Client.dll.mdb

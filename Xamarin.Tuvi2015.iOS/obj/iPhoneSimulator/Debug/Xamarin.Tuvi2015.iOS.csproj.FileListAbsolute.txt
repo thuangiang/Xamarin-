@@ -1,0 +1,17 @@
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\bin\iPhoneSimulator\Debug\XamarinEnterpriseWcfiOS.exe
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\bin\iPhoneSimulator\Debug\XamarinEnterpriseWcfiOS.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\bin\iPhoneSimulator\Debug\Xamarin.EnterpriseWcf.Client.dll
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\bin\iPhoneSimulator\Debug\Xamarin.EnterpriseWcf.Client.pdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\bin\iPhoneSimulator\Debug\Xamarin.EnterpriseWcf.Client.dll.mdb
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Default@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Default.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon-60@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon-Small.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon-Small@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40@2x.png
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\Xamarin.Tuvi2015.iOS.csprojResolveAssemblyReference.cache
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\XamarinEnterpriseWcfiOS.exe
+D:\Xamarin\Xamarin_Tuvi2015\Xamarin.Tuvi2015.iOS\obj\iPhoneSimulator\Debug\XamarinEnterpriseWcfiOS.pdb
